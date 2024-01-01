@@ -29,24 +29,24 @@ Main technologies, libraries, and tools used in your project.
 
 Provide instructions on how to get started with your project. Include information on dependencies, installation steps, and any prerequisites.
 
-# Clone the repository
+## Clone the repository
 ```bash git clone https://github.com/yourusername/stock-price-prediction.git ```
 
-# Navigate to the project directory
+## Navigate to the project directory
 ```bash cd stock-price-prediction ```
 
-# Install dependencies
+## Install dependencies
 ```bash pip install -r requirements.txt ```
 
-## Usage
+# Usage
 
-# Train the model
+Train the model
 ```bash python train_model.py ```
 
-## Make predictions
+Make predictions
 ```bash python predict.py ```
 
-## Results
+# Results
 
 ![newplot](https://github.com/kdsking19/StockMarket_Prediction/assets/93511618/af91563b-f1ee-4ef2-9134-7c2192272aee)
 
