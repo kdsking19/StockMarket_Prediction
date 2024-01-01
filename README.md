@@ -1,5 +1,7 @@
 # Stock Price Prediction
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 This project aims to create a model that predicts stock prices based on historical data, utilizing techniques such as time series analysis.
 
 ## Overview
