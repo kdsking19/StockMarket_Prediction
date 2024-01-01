@@ -48,10 +48,10 @@ Provide instructions on how to get started with your project. Include informatio
 
 ![newplot](https://github.com/kdsking19/StockMarket_Prediction/assets/93511618/af91563b-f1ee-4ef2-9134-7c2192272aee)
 
-##Contributing
+# Contributing
 
 If you would like to contribute to this project, follow the guidelines in CONTRIBUTING.md.
 
-##License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
