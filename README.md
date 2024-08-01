@@ -50,10 +50,6 @@ Make predictions
 
 ![newplot](https://github.com/kdsking19/StockMarket_Prediction/assets/93511618/af91563b-f1ee-4ef2-9134-7c2192272aee)
 
-# Contributing
-
-If you would like to contribute to this project, follow the guidelines in CONTRIBUTING.md.
-
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
